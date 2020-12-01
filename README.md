@@ -2,7 +2,7 @@
 # Centro Universitário UNIESP
 Professora: Drª Alana Morais (alanamm.prof@gmail.com)
 
-Aluno: Amanda Thayane de Andrade Siqueira
+Aluna: Amanda Thayane de Andrade Siqueira
 
  
 # Strategy
