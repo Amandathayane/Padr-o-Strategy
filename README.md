@@ -1,6 +1,3 @@
-# Padrão-Strategy
-Disciplina de Métodos Avançados de Programação
-
 # Padrão Strategy
 # Centro Universitário UNIESP
 Professora: Drª Alana Morais (alanamm.prof@gmail.com)
