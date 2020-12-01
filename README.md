@@ -22,3 +22,5 @@ Normalmente, esse tipo de aplicação possui vários “if’s”, porém, múlt
 O padrão Strategy é um dos padrões que pode ser usado para facilitar e otimizar a manutenção do seu código. 
 Com este padrão, é possível a reutilização do código sempre que necessário, e por causa dele, a comunicação entre os objetos é melhor, por causa da distribuição de responsabilidades.
 
+# Link do vídeo
+https://drive.google.com/file/d/1Yiza-Iao5XcxibqZpyaCaK9_QB8wOpVZ/view?usp=sharing
