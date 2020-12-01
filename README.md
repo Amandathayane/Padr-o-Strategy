@@ -19,22 +19,35 @@ Normalmente, esse tipo de aplicação possui vários “if’s”, porém, múlt
 
 
 # Consequências
-O padrão Strategy é um dos padrões que pode ser usado para otimizar e facilitar a manutenção do seu código. Com este padrão, é possível a reutilização do código sempre que necessário.
+O padrão Strategy é um dos padrões que pode ser usado para facilitar e otimizar a manutenção do seu código. Com este padrão, é possível a reutilização do código sempre que necessário.
 A seguir, podemos ver os pontos positivos e negativos de usar esse padrão:
 
+
 **VANTAGENS**
+
+
 Clarificar algoritmos;
+
 A reutilização de código é evidente;
+
 Permite uma evolução de projeto mais eficiente;
+
 Coloca uma linguagem universal ao menos em parte do projeto;
+
 A possibilidade de mudança de comportamento em tempo de execução da maior dinamismo ao projeto;
+
 Os algoritmos em classes Strategy possuem variações do seus algoritmos independentemente do seu contexto;
+
 A Strategy permite que se escolham diferentes implementações do mesmo comportamento.
 
 **DESVANTAGENS**
+
+
 O número de classes no projeto pode crescer consideravelmente se houverem muitas funcionalidades que não podem ser implementadas por classes de uma mesma família de classes Strategy;
-Pode complicar o projeto ainda mais caso uma solução com herança seja mais simples de implementar e manter.
+
 O cliente deve conhecer como que os Strategies diferem;
+
 O custo da comunicação entre o contexto e o Strategy é significativo;
+
 Strategies aumentam o número de objetos no sistema.
 
