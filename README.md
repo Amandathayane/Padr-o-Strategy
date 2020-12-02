@@ -1,5 +1,6 @@
 # Padrão Strategy
 # Centro Universitário UNIESP
+
 Professora: Drª Alana Morais (alanamm.prof@gmail.com)
 
 Aluna: Amanda Thayane de Andrade Siqueira
